@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/frequency-converter-noise-filtering-explainer/
 
+Repository: https://github.com/mizcausevic-dev/frequency-converter-noise-filtering-explainer
+
 ## What this is
 
 An interactive anatomy plate for Frequency-Converter Noise Filtering. Play, scrub, or jump the five stages. The same frame always draws the same picture.
